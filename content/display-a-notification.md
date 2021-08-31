@@ -154,7 +154,7 @@ On other browsers (or Chrome without the badge), you'll see an icon of the brows
 
 As with the `icon` option, there are no real guidelines on what size to use.
 
-Digging through [Android guidelines](https://developer.android.com/guide/practices/ui_guidelines/icon_design_status_bar.html) the recommended size is 24px multiplied by the device pixel ratio.
+Digging through [Android guidelines](https://material.io/design/iconography/system-icons.html#grid-and-keyline-shapes) the recommended size is 24px multiplied by the device pixel ratio.
 
 Meaning an image of 72px or more should be good (assuming a max device pixel ratio of 3).
 
